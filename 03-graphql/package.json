@@ -1,0 +1,22 @@
+{
+  "name": "learning-react-by-rohmadst",
+  "version": "1.0.0",
+  "description": "Sample Project for Learning ReactJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "learning",
+    "reactjs",
+    "sample",
+    "project"
+  ],
+  "author": "Rohmad Sasmito <rohmadsasmito@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "express-graphql": "^0.4.4",
+    "graphql": "^0.4.12"
+  }
+}

@@ -3,6 +3,7 @@
 ##List Project
 - Hello World
 - Simple Task
+- GraphQL
 - Consume API (food2fork)
 - React Router
 
