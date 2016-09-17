@@ -4,7 +4,7 @@
 - Hello World
 - Simple Task
 - GraphQL
-- Consume API (food2fork)
+- Consume API
 - React Router
 
 ##How to use
